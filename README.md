@@ -7,6 +7,7 @@ By default, pressing W or the left mouse button means 100% throttle, and S or th
 *Keywords: smooth throttle, gradual acceleration, progressive braking, analog throttle on keyboard, partial throttle, KBM controls without a wheel, realistic truck driving.*
 
 **Tested:** ETS2 1.61, keyboard and mouse, about 60 FPS, a 3,793 km job (Edirne → O Barco) with a 25 t load.
+
 ## How it feels
 
 | Input | Behaviour |
