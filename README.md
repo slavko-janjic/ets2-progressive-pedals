@@ -1,9 +1,12 @@
-# ETS2 / ATS Progressive Pedals
+# Progressive Throttle & Brake for Keyboard/Mouse (ETS2 / ATS)
 
-Progressive throttle and brake for **keyboard and mouse** players in Euro Truck Simulator 2, and in principle American Truck Simulator.
+**Smooth, gradual, analog-style throttle and brake for keyboard and mouse players in Euro Truck Simulator 2 and American Truck Simulator.** You don't need mods, plugins or extra software. It's just your profile's `controls.sii`.
 
-By default, pressing W or the left mouse button means 100% throttle, and S or the right mouse button means 100% brake. This config turns those keys into a pedal that you press gradually. You don't need mods, plugins or third-party tools. It's just your profile's `controls.sii`.
+By default, pressing W or the left mouse button means 100% throttle, and S or the right mouse button means 100% brake. This config turns those keys into a pedal you press gradually: hold to press harder, release to ease off, tap for part throttle. Heavy loads finally feel heavy.
 
+*Keywords: smooth throttle, gradual acceleration, progressive braking, analog throttle on keyboard, partial throttle, KBM controls without a wheel, realistic truck driving.*
+
+**Tested:** ETS2 1.61, keyboard and mouse, about 60 FPS, a 3,793 km job (Edirne → O Barco) with a 25 t load.
 ## How it feels
 
 | Input | Behaviour |
@@ -16,7 +19,7 @@ By default, pressing W or the left mouse button means 100% throttle, and S or th
 | **RMB + S** together | Emergency: instant full brake |
 | Brake key while on throttle | Throttle is cut immediately, and the reverse |
 
-Tested on ETS2 **1.61** with a 25 t load. All timings assume about **60 FPS** (see [Tuning](#tuning)).
+All timings assume about **60 FPS** (see [Tuning](#tuning)).
 
 ## Install
 
